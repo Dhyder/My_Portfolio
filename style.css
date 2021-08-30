@@ -279,3 +279,22 @@ div { position: absolute; box-sizing: border-box;}
 	background:url(skins/blackish_1_ek2.png);
 	background-size:cover;
 }
+
+#rectangle {
+	top: 84px;
+	left: 26px;
+	width: 1122px;
+	height: 452px;
+}
+
+#rectangle_1 {
+	position: absolute;
+	width: 673px;
+	height: 452px;
+	left: 450px;
+	top: 25px;
+	
+	background: linear-gradient(180deg, #414141 0%, rgba(0, 0, 0, 0) 100%);
+	border-radius: 100px;
+}
+
