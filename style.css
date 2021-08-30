@@ -88,3 +88,29 @@ div { position: absolute; box-sizing: border-box;}
 	color:#FFFFFF;
 }
 
+
+
+#contact {
+	top: 0px;
+	left: 1017px;
+	width: 105px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#about {
+	top: 0px;
+	left: 887px;
+	width: 80px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
