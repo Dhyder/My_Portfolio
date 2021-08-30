@@ -200,3 +200,30 @@ div { position: absolute; box-sizing: border-box;}
 	color:#FFFFFF;
 }
 
+
+
+#police_minds_matter {
+	top: 86px;
+	left: 0px;
+	width: 397px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#photostreet {
+	top: 453px;
+	left: 0px;
+	width: 251px;
+	height: 67px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 36px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
