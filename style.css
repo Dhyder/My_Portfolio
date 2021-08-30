@@ -41,3 +41,23 @@ div { position: absolute; box-sizing: border-box;}
 	background:url(skins/rainboweffect4_1.png);
 	background-size:cover;
 }
+
+#text {
+	top: 45px;
+	left: 135px;
+	width: 1174px;
+	height: 595px;
+}
+
+#i_m_vickie__a_software_developer {
+	top: 315px;
+	left: 710px;
+	width: 493px;
+	height: 314px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 48px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
