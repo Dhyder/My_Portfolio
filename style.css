@@ -515,3 +515,22 @@ a{
 	text-decoration: none;
 	color: aliceblue;
 }
+form{
+    color: #ffff;
+    padding-left: 130%;
+    padding-top: 80%;
+    font-family: Redressed;
+}
+h1{
+    color: #FFFFFF;
+    align-items: center;
+    font-family: Redressed;
+    padding-left: 440%;
+    padding-top: 200%;
+}
+#pp{
+    color: #FFFFFF;
+    padding-left: 480%;
+    padding-top: 120%;
+    font-family: Redressed;
+}
