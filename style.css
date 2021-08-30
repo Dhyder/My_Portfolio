@@ -346,7 +346,7 @@ div { position: absolute; box-sizing: border-box;}
 	height: 441px;
 }
 
-#hi_again__lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s__when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book__it_has_survived_not_only_five_centuries__but_also_the_leap_into_electronic_typesetting__remaining_essentially_unchanged__it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages__and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum_ {
+#paragraph {
 	top: 143px;
 	left: 514px;
 	width: 554px;
@@ -356,6 +356,7 @@ div { position: absolute; box-sizing: border-box;}
 	font-size: 24px;
 	text-align: left;
 	color:#FFFFFF;
+    overflow: visible;
 }
 
 
