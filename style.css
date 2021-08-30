@@ -338,3 +338,50 @@ div { position: absolute; box-sizing: border-box;}
 	background: linear-gradient(-90deg , rgba(64.81,64.81,64.81,1) 0%, rgba(0,0,0,0) 100%);
 	
 }
+
+#text_ek2 {
+	top: -5px;
+	left: 29px;
+	width: 1051px;
+	height: 441px;
+}
+
+#hi_again__lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_dummy_text_ever_since_the_1500s__when_an_unknown_printer_took_a_galley_of_type_and_scrambled_it_to_make_a_type_specimen_book__it_has_survived_not_only_five_centuries__but_also_the_leap_into_electronic_typesetting__remaining_essentially_unchanged__it_was_popularised_in_the_1960s_with_the_release_of_letraset_sheets_containing_lorem_ipsum_passages__and_more_recently_with_desktop_publishing_software_like_aldus_pagemaker_including_versions_of_lorem_ipsum_ {
+	top: 143px;
+	left: 514px;
+	width: 554px;
+	height: 189px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+
+#skills {
+	top: 42px;
+	left: 7px;
+	width: 91px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#hobbies {
+	top: 263px;
+	left: 7px;
+	width: 113px;
+	height: 45px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
