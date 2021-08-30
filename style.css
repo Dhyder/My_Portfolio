@@ -508,3 +508,10 @@ h5{
 html{
 	scroll-behavior: smooth;
 }
+header{
+	position: fixed;
+}
+a{
+	text-decoration: none;
+	color: aliceblue;
+}
