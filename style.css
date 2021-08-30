@@ -452,3 +452,28 @@ div { position: absolute; box-sizing: border-box;}
 	background-size:cover;
 }
 
+
+
+#rectangle_4_ek1 {
+	position: absolute;
+	width: 673px;
+	height: 452px;
+	left: 304px;
+	top: 91px;
+	
+	background: linear-gradient(180deg, #414141 0%, rgba(0, 0, 0, 0) 100%);
+	border-radius: 100px;
+}
+
+
+#contact_ek1 {
+	top: 110px;
+	left: 540px;
+	width: 229px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 48px;
+	text-align: left;
+	color:#FFFFFF;
+}
