@@ -1,0 +1,7 @@
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+div { position: absolute; box-sizing: border-box;}
+
+#content-container { display: block; position: relative; width: 1280px;  margin-left: auto; margin-right: auto;  }
+
+#content-container > div{ position: relative; top:inherit; }
