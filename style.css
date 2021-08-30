@@ -385,3 +385,30 @@ div { position: absolute; box-sizing: border-box;}
 	color:#FFFFFF;
 }
 
+
+
+#about_me {
+	top: 0px;
+	left: 497px;
+	width: 258px;
+	height: 90px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 48px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ui_ux_designer_fullstack_developer_graphic_designer {
+	top: 131px;
+	left: 0px;
+	width: 232px;
+	height: 114px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
