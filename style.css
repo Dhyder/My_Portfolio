@@ -412,3 +412,23 @@ div { position: absolute; box-sizing: border-box;}
 	color:#FFFFFF;
 }
 
+
+
+#writing_caricature_painting {
+	top: 345px;
+	left: 24px;
+	width: 205px;
+	height: 113px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 24px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+#Contacts {
+	top: 0px;
+	left: 0px;
+	width: 1280px;
+	height: 720px;
+}
