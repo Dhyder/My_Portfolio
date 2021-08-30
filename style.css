@@ -61,3 +61,30 @@ div { position: absolute; box-sizing: border-box;}
 	color:#FFFFFF;
 }
 
+
+
+#hello_there {
+	top: 214px;
+	left: 0px;
+	width: 558px;
+	height: 143px;
+	overflow: hidden;
+	font-family: Rationale;
+	font-size: 64px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#home {
+	top: 0px;
+	left: 765px;
+	width: 72px;
+	height: 37px;
+	overflow: hidden;
+	font-family: Roboto;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
