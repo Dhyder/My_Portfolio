@@ -153,3 +153,23 @@ div { position: absolute; box-sizing: border-box;}
 	background: linear-gradient(180deg, #414141 0%, rgba(0, 0, 0, 0) 100%);
 	border-radius: 100px;
 }
+
+#text_ek1 {
+	top: 14px;
+	left: 104px;
+	width: 755px;
+	height: 599px;
+}
+
+#police_minds_matter_is_a_forum_created_for_the_benefit_of_the_various_lines_of_service_in_the_national_police_service_in_kenya__it_is_a_forum_engineered_into_catering_for_the_sensitization_of_our_forces_with_regards_to_their_mental_health_ {
+	top: 148px;
+	left: 3px;
+	width: 546px;
+	height: 97px;
+	overflow: hidden;
+	font-family: Redressed;
+	font-size: 18px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
